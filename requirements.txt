@@ -1,0 +1,8 @@
+beautifulsoup4
+pandas
+numpy
+sqlalchemy
+scikit-learn
+matplotlib
+seaborn
+joblib

@@ -1,0 +1,179 @@
+Bus_ID,Departure,Arrival,Duration,Duration_Minutes,Seats,Single_Seats,Price,Onwards,Operator,Bus_Type,Rating,Rating_Count,Live_Tracking,Source,Destination
+26409654,23:15,06:10,6h 55m,415,42,10,1250,Onwards,Jayavin Travels,A/C Seater / Sleeper (2+1),4.4,575,Yes,Bangalore,Chennai
+44319378,21:55,04:30,6h 35m,395,36,12,585,Onwards,HYBUS,Bharat Benz A/C Sleeper (2+1),4.5,245,Yes,Bangalore,Chennai
+36258160,21:35,05:00,7h 25m,445,24,8,1600,Onwards,PADMAVATHI TRAVELS,A/C Sleeper (2+1),4.3,797,Yes,Bangalore,Chennai
+37971794,22:45,05:45,7h,420,25,6,1400,Onwards,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),4.2,1377,Yes,Bangalore,Chennai
+44319377,21:40,04:55,7h 15m,435,36,12,585,Onwards,HYBUS,Bharat Benz A/C Sleeper (2+1),4.5,166,Yes,Bangalore,Chennai
+rdBoost_44324353,11:05,17:45,6h 40m,400,24,8,899,Unknown,VEE VEE BUS,A/C Sleeper (2+1),4.4,36,No,Bangalore,Chennai
+32913496,23:15,05:15,6h,360,25,6,1400,Onwards,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),4.2,932,Yes,Bangalore,Chennai
+44324353,11:05,17:45,6h 40m,400,24,8,899,Unknown,VEE VEE BUS,A/C Sleeper (2+1),4.4,36,No,Bangalore,Chennai
+18582298,23:00,06:00,7h,420,36,12,1620,Onwards,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),4.1,888,Yes,Bangalore,Chennai
+9698430,22:30,04:35,6h 5m,365,35,5,1220,Onwards,YBM Travels(BLM),A/C Sleeper (2+1),4.1,600,Yes,Bangalore,Chennai
+37991967,06:45,13:00,6h 15m,375,28,8,1500,Onwards,Bharathi Travels,A/C Sleeper (2+1),4.2,307,Yes,Bangalore,Chennai
+11012833,07:00,13:50,6h 50m,410,36,6,1000,Onwards,YBM Travels(BLM),A/C Sleeper (2+1),4.1,459,Yes,Bangalore,Chennai
+31387724,22:30,05:30,7h,420,43,10,1529,Onwards,Mettur Super Services(mss),A/C Seater / Sleeper (2+1),4.3,680,No,Bangalore,Chennai
+37422314,13:00,20:15,7h 15m,435,43,10,1350,Onwards,Mettur Super Services(mss),A/C Seater / Sleeper (2+1),4.1,174,Yes,Bangalore,Chennai
+31914445,23:00,05:45,6h 45m,405,23,7,618,Onwards,Alaguthangam Travels,A/C Sleeper (2+1),4.1,201,No,Bangalore,Chennai
+38062910,00:45,07:00,6h 15m,375,30,10,2499,Onwards,Bharathi Travels,A/C Sleeper (2+1),2.8,356,Yes,Bangalore,Chennai
+43174295,12:55,20:10,7h 15m,435,23,7,570,Onwards,Alaguthangam Travels,A/C Sleeper (2+1),3.7,80,No,Bangalore,Chennai
+43865802,22:45,05:35,6h 50m,410,25,9,1980,Onwards,ADITHIYA AIRBUS,A/C Sleeper (2+1),4.5,26,No,Bangalore,Chennai
+45516872,05:25,11:25,6h,360,32,0,1250,Onwards,PARVEEN TRAVELS,Volvo Multi-Axle A/C Semi Sleeper (2+2),4.6,19,No,Bangalore,Chennai
+46790277,04:00,10:30,6h 30m,390,48,12,5700,Unknown,Sri Sugam Bus Tours and Travels,Bharat Benz A/C Seater /Sleeper (2+1),3.6,0,No,Bangalore,Chennai
+40366771,20:45,08:35,11h 50m,710,8,3,1670,Onwards,zingbus plus,A/C Seater/Sleeper (2+1),4.4,597,No,Bangalore,Hyderabad
+30932941,22:15,07:50,9h 35m,575,8,0,2199,Onwards,Pramukh Travels,Volvo 9600 SLX Multi-Axle AC Sleeper (2+1),4.4,342,No,Bangalore,Hyderabad
+45236104,22:55,08:10,9h 15m,555,11,0,2000,Onwards,GRT Travels,Volvo 9600 SLX Multi-Axle AC Sleeper (2+1),4.3,64,Yes,Bangalore,Hyderabad
+31477947,22:05,06:30,8h 25m,505,8,0,2800,Onwards,Delta Transports Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),3.9,331,Yes,Bangalore,Hyderabad
+31256768,20:50,07:47,10h 57m,657,1,1,2810,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (2+1),4.8,1717,Yes,Bangalore,Hyderabad
+rdBoost_42858691,20:45,07:00,10h 15m,615,1,0,1709,Unknown,HASH BUS,Bharat Benz A/C Sleeper (2+1),4.7,432,Yes,Bangalore,Hyderabad
+rdBoost_40605625,20:45,08:55,12h 10m,730,1,0,1887,Unknown,zingbus plus,VE A/C Sleeper (2+1),4.1,191,Yes,Bangalore,Hyderabad
+rdBoost_21882093,20:45,08:50,12h 5m,725,1,1,1969,Unknown,zingbus plus,A/C Sleeper (2+1),4.3,476,Yes,Bangalore,Hyderabad
+45662508,00:45,09:10,8h 25m,505,3,1,2600,Onwards,Delta Transports Pvt Ltd,Volvo 9600 SLX Multi-Axle AC Sleeper (2+1),4.1,31,Yes,Bangalore,Hyderabad
+31206897,20:50,06:51,10h 1m,601,1,0,1499,Unknown,TVK TRAVELS,Bharat Benz A/C Sleeper (2+1),4.7,869,Yes,Bangalore,Hyderabad
+45832415,20:45,06:42,9h 57m,597,1,0,1661,Onwards,RAJESH TRANSPORTS,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.6,815,Yes,Bangalore,Hyderabad
+42858691,20:45,07:00,10h 15m,615,1,0,1709,Unknown,HASH BUS,Bharat Benz A/C Sleeper (2+1),4.7,432,Yes,Bangalore,Hyderabad
+13107216,21:00,07:50,10h 50m,650,1,0,1879,Onwards,V Kaveri Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.5,910,Yes,Bangalore,Hyderabad
+38983895,20:45,06:50,10h 5m,605,4,3,1550,Onwards,RMS Transports,A/C Sleeper (2+1),4.5,830,Yes,Bangalore,Hyderabad
+26705908,20:45,07:30,10h 45m,645,2,1,1630,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (2+1),4.4,585,Yes,Bangalore,Hyderabad
+5017513,20:45,07:30,10h 45m,645,1,1,1600,Onwards,Jabbar  Travels,VE Non A/C Sleeper (2+1),4.4,562,Yes,Bangalore,Hyderabad
+35886549,20:55,07:05,10h 10m,610,1,0,1275,Onwards,FlixBus,A/C Sleeper (2+1),4.4,556,Yes,Bangalore,Hyderabad
+32296701,21:20,08:30,11h 10m,670,1,0,2099,Onwards,Intercity travels,Bharat Benz A/C Sleeper (2+1),4.4,480,Yes,Bangalore,Hyderabad
+42080287,20:45,07:30,10h 45m,645,1,1,5555,Unknown,Rajdhani Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.4,365,Yes,Bangalore,Hyderabad
+40605625,20:45,08:55,12h 10m,730,1,0,1887,Unknown,zingbus plus,VE A/C Sleeper (2+1),4.1,191,Yes,Bangalore,Hyderabad
+27093543,20:45,06:22,9h 37m,577,5,2,2180,Onwards,KSM Roadways,A/C Volvo B11R Multi-Axle Sleeper (2+1),4.3,545,Yes,Bangalore,Hyderabad
+41799433,20:45,07:30,10h 45m,645,1,1,1849,Onwards,SL Travels,A/C Sleeper (2+1),4.3,512,Yes,Bangalore,Hyderabad
+21882093,20:45,08:50,12h 5m,725,1,1,1969,Unknown,zingbus plus,A/C Sleeper (2+1),4.3,476,Yes,Bangalore,Hyderabad
+17219841,20:50,07:15,10h 25m,625,2,0,1479,Onwards,IntrCity SmartBus,A/C Seater / Sleeper (2+1),4.2,605,Yes,Bangalore,Hyderabad
+32532539,20:55,07:23,10h 28m,628,1,1,3200,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (1+1),4.4,118,Yes,Bangalore,Hyderabad
+31538008,20:50,08:30,11h 40m,700,1,0,1520,Onwards,GEE PEE TRAVELS,VE Non A/C Sleeper (2+1),4.1,440,Yes,Bangalore,Hyderabad
+30782503,20:45,08:00,11h 15m,675,2,1,1399,Onwards,Streamline tours and travels,Bharat Benz A/C Sleeper (2+1),4.0,714,Yes,Bangalore,Hyderabad
+41048417,20:45,08:50,12h 5m,725,4,2,1650,Onwards,N S Holidays,NON A/C Sleeper (2+1),4.0,442,Yes,Bangalore,Hyderabad
+44131892,20:55,07:55,11h,660,1,0,1229,Onwards,IntrCity SmartBus,A/C Seater / Sleeper (2+1),4.1,160,Yes,Bangalore,Hyderabad
+46663230,20:45,07:40,10h 55m,655,1,1,1969,Onwards,Express Line,VE A/C Sleeper (2+1),4.4,8,No,Bangalore,Hyderabad
+40034380,20:45,06:50,10h 5m,605,4,3,1600,Onwards,RMS Transports,A/C Sleeper (2+1),4.5,0,No,Bangalore,Hyderabad
+41213733,00:40,09:45,9h 5m,545,8,2,1700,Onwards,YAS Tours & Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),3.2,195,No,Bangalore,Hyderabad
+41931842,22:45,07:00,8h 15m,495,19,7,1559,Onwards,Streamline tours and travels,Bharat Benz A/C Sleeper (2+1),3.7,7,No,Bangalore,Hyderabad
+21663788,22:10,09:00,10h 50m,650,1,1,1800,Onwards,GEE PEE TRAVELS,NON A/C Sleeper (2+1),3.9,357,Yes,Bangalore,Hyderabad
+20474518,20:45,07:15,10h 30m,630,1,1,1639,Onwards,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),3.9,305,Yes,Bangalore,Hyderabad
+38863468,21:05,08:30,11h 25m,685,3,3,2199,Onwards,Bharathi Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),3.6,501,Yes,Bangalore,Hyderabad
+33602624,23:45,09:45,10h,600,1,0,1400,Onwards,BigBus,Volvo 9600 Multi-Axle A/C Sleeper (2+1),3.9,58,Yes,Bangalore,Hyderabad
+26624575,21:30,07:10,9h 40m,580,1,1,1699,Onwards,Saleem Travels,NON A/C Sleeper (2+1),3.0,277,Yes,Bangalore,Hyderabad
+42472684,22:25,07:50,9h 25m,565,2,0,1921,Unknown,Kallada Travels (Suresh Kallada),Bharat Benz A/C Sleeper (2+1),3.2,51,Yes,Bangalore,Hyderabad
+45639809,23:30,09:35,10h 5m,605,1,0,1499,Onwards,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),3.3,12,Yes,Bangalore,Hyderabad
+46875464,21:00,08:00,11h,660,4,0,1499,Onwards,Lakshmi Travels,A/C Seater (2+2),3.6,0,No,Bangalore,Hyderabad
+29459478,21:50,09:30,11h 40m,700,19,5,1499,Onwards,Dhanunjaya Travels,A/C Seater / Sleeper (2+1),1.8,379,Yes,Bangalore,Hyderabad
+33029923,21:00,08:50,11h 50m,710,15,9,1590,Onwards,Anmol Tours & Travels,Bharat Benz A/C Sleeper (2+1),2.5,4,No,Bangalore,Hyderabad
+33421086,23:05,08:50,9h 45m,585,3,0,1499,Onwards,Balaji Cabs,Bharat Benz A/C Sleeper (2+1),2.9,229,Yes,Bangalore,Hyderabad
+32338856,20:45,08:00,11h 15m,675,2,2,1396,Unknown,Bmcc Travels,NON AC Seater / Sleeper 2+1,2.7,309,Yes,Bangalore,Hyderabad
+41210454,23:15,08:25,9h 10m,550,5,4,1500,Onwards,YAS Tours & Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),2.6,153,Yes,Bangalore,Hyderabad
+45895287,20:45,09:20,12h 35m,755,3,3,1799,Onwards,Dhanunjaya Travels,VE A/C Sleeper (2+1),1.7,24,No,Bangalore,Hyderabad
+29871777,20:50,07:00,10h 10m,610,2,0,2100,Onwards,VRL Travels,Volvo Multi-Axle A/C Sleeper (2+1),3.5,69,Yes,Bangalore,Hyderabad
+26915305,20:45,06:30,9h 45m,585,2,0,1740,Onwards,VRL Travels,NON A/C Sleeper (2+1),3.9,119,Yes,Bangalore,Hyderabad
+41447857,22:40,05:55,7h 15m,435,35,11,742,Onwards,FlixBus,A/C Sleeper (2+1),4.6,886,Yes,Chennai,Bangalore
+35410394,22:00,05:30,7h 30m,450,36,12,742,Onwards,FlixBus,A/C Sleeper (2+1),4.6,615,Yes,Chennai,Bangalore
+41004021,22:20,05:25,7h 5m,425,36,12,761,Onwards,FlixBus,A/C Sleeper (2+1),4.5,1160,Yes,Chennai,Bangalore
+44319358,22:00,05:40,7h 40m,460,36,12,585,Onwards,HYBUS,Bharat Benz A/C Sleeper (2+1),4.8,174,Yes,Chennai,Bangalore
+18588049,23:00,05:30,6h 30m,390,36,12,1620,Onwards,Dream Line Travels Pvt Ltd,VE A/C Sleeper (2+1),4.5,843,Yes,Chennai,Bangalore
+rdBoost_44319359,23:00,06:30,7h 30m,450,36,12,585,Onwards,HYBUS,Bharat Benz A/C Sleeper (2+1),4.6,203,Yes,Chennai,Bangalore
+rdBoost_44324346,10:45,17:15,6h 30m,390,24,8,899,Unknown,VEE VEE BUS,A/C Sleeper (2+1),4.1,36,No,Chennai,Bangalore
+35410405,22:10,05:30,7h 20m,440,36,12,761,Onwards,FlixBus,A/C Sleeper (2+1),4.5,657,Yes,Chennai,Bangalore
+44319359,23:00,06:30,7h 30m,450,36,12,585,Onwards,HYBUS,Bharat Benz A/C Sleeper (2+1),4.6,203,Yes,Chennai,Bangalore
+44324346,10:45,17:15,6h 30m,390,24,8,899,Unknown,VEE VEE BUS,A/C Sleeper (2+1),4.1,36,No,Chennai,Bangalore
+26409636,22:00,04:40,6h 40m,400,42,10,2500,Onwards,Jayavin Travels,A/C Seater / Sleeper (2+1),4.5,623,Yes,Chennai,Bangalore
+35410419,23:40,06:50,7h 10m,430,36,12,742,Onwards,FlixBus,A/C Sleeper (2+1),4.4,613,Yes,Chennai,Bangalore
+9673189,23:00,05:15,6h 15m,375,36,6,1400,Onwards,YBM Travels(BLM),A/C Sleeper (2+1),4.4,467,Yes,Chennai,Bangalore
+37970315,23:00,05:15,6h 15m,375,25,0,1700,Onwards,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),4.2,1307,Yes,Chennai,Bangalore
+36258074,21:55,04:55,7h,420,24,8,1600,Onwards,PADMAVATHI TRAVELS,A/C Sleeper (2+1),4.2,671,Yes,Chennai,Bangalore
+32914560,23:35,06:00,6h 25m,385,46,0,1700,Onwards,Krish Travels,Bharat Benz A/C Seater /Sleeper (2+1),4.1,1018,Yes,Chennai,Bangalore
+35410399,09:45,18:05,8h 20m,500,36,12,656,Onwards,FlixBus,A/C Sleeper (2+1),4.1,123,Yes,Chennai,Bangalore
+38717246,11:30,19:20,7h 50m,470,36,12,656,Onwards,FlixBus,A/C Sleeper (2+1),4.1,113,Yes,Chennai,Bangalore
+11010011,06:30,13:30,7h,420,36,6,800,Onwards,YBM Travels(BLM),A/C Sleeper (2+1),3.8,420,Yes,Chennai,Bangalore
+35410388,08:30,17:20,8h 50m,530,36,12,637,Onwards,FlixBus,A/C Sleeper (2+1),3.8,76,Yes,Chennai,Bangalore
+34373458,17:00,23:40,6h 40m,400,28,8,890,Onwards,Bharathi Travels,A/C Sleeper (2+1),3.3,283,Yes,Chennai,Bangalore
+37992475,14:20,21:35,7h 15m,435,28,8,1500,Onwards,Bharathi Travels,A/C Sleeper (2+1),3.3,203,Yes,Chennai,Bangalore
+45516826,17:15,23:25,6h 10m,370,31,0,1490,Onwards,PARVEEN TRAVELS,Volvo Multi-Axle A/C Semi Sleeper (2+2),3.9,41,Yes,Chennai,Bangalore
+43865868,22:40,05:45,7h 5m,425,25,8,1737,Onwards,ADITHIYA AIRBUS,A/C Sleeper (2+1),5.0,29,No,Chennai,Bangalore
+38063380,20:00,03:15,7h 15m,435,30,10,2166,Onwards,Bharathi Travels,A/C Sleeper (2+1),2.5,108,Yes,Chennai,Bangalore
+43171738,11:30,18:45,7h 15m,435,25,7,570,Onwards,Alaguthangam Travels,A/C Sleeper (2+1),3.9,54,No,Chennai,Bangalore
+45850388,16:30,23:45,7h 15m,435,29,6,1450,Onwards,YBM Travels(BLM),A/C Sleeper (2+1),4.1,0,No,Chennai,Bangalore
+46726423,13:30,21:02,7h 32m,452,48,12,6000,Onwards,Sri Sugam Bus Tours and Travels,Bharat Benz A/C Seater /Sleeper (2+1),3.7,0,No,Chennai,Bangalore
+40779881,19:20,07:50,12h 30m,750,36,12,1113,Onwards,FlixBus,A/C Sleeper (2+1),4.5,759,Yes,Chennai,Hyderabad
+16611916,21:15,07:00,9h 45m,585,33,13,3500,Onwards,V Kaveri Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.3,741,Yes,Chennai,Hyderabad
+25654934,18:45,06:45,12h,720,32,10,3469,Onwards,Ramana Tours And Travels,A/C Sleeper (2+1),4.3,576,Yes,Chennai,Hyderabad
+35706440,16:30,05:40,13h 10m,790,36,12,1218,Onwards,FlixBus,A/C Sleeper (2+1),4.2,575,Yes,Chennai,Hyderabad
+34375155,22:00,09:25,11h 25m,685,33,11,3680,Onwards,Bharathi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.2,469,Yes,Chennai,Hyderabad
+35410270,17:50,06:10,12h 20m,740,36,12,1180,Onwards,FlixBus,A/C Sleeper (2+1),4.1,478,Yes,Chennai,Hyderabad
+44785951,20:20,09:00,12h 40m,760,48,12,1113,Onwards,FlixBus,A/C Seater / Sleeper (2+1),4.3,101,Yes,Chennai,Hyderabad
+17306444,18:30,05:30,11h,660,29,11,3500,Onwards,V Kaveri Travels,A/C Sleeper (2+1),3.6,363,Yes,Chennai,Hyderabad
+34372631,21:20,08:50,11h 30m,690,33,11,3680,Onwards,Bharathi Travels,Scania AC Multi Axle Sleeper (2+1),3.6,343,Yes,Chennai,Hyderabad
+20815321,19:45,06:15,10h 30m,630,29,11,3500,Onwards,V Kaveri Travels,A/C Sleeper (2+1),3.1,392,Yes,Chennai,Hyderabad
+45927734,18:20,06:50,12h 30m,750,48,12,1113,Onwards,FlixBus,A/C Seater / Sleeper (2+1),4.4,19,Yes,Chennai,Hyderabad
+35884363,18:30,06:30,12h,720,31,8,5699,Unknown,MRM Travels,A/C Seater / Sleeper (2+1),3.2,12,No,Chennai,Hyderabad
+31256782,21:00,06:28,9h 28m,568,36,12,3500,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (2+1),4.7,1393,Yes,Hyderabad,Bangalore
+33285753,20:55,07:10,10h 15m,615,30,10,4199,Onwards,VSR Tours and Travels,A/C Sleeper (2+1),4.7,1331,Yes,Hyderabad,Bangalore
+36797204,22:30,08:50,10h 20m,620,30,10,2380,Onwards,LVP Travels,A/C Sleeper (2+1),4.7,1196,Yes,Hyderabad,Bangalore
+26705925,22:35,08:25,9h 50m,590,36,12,3120,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (2+1),4.5,551,Yes,Hyderabad,Bangalore
+23906151,20:30,06:55,10h 25m,625,36,12,2499,Onwards,Intercity travels,Bharat Benz A/C Sleeper (2+1),4.7,607,Yes,Hyderabad,Bangalore
+31584619,22:50,08:15,9h 25m,565,36,12,3500,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (2+1),4.6,722,Yes,Hyderabad,Bangalore
+44068951,21:30,08:10,10h 40m,640,30,10,2280,Onwards,LVP Travels,A/C Sleeper (2+1),4.7,286,Yes,Hyderabad,Bangalore
+31858737,23:45,09:45,10h,600,36,12,2499,Onwards,Intercity travels,Bharat Benz A/C Sleeper (2+1),4.6,493,Yes,Hyderabad,Bangalore
+31048980,19:15,05:27,10h 12m,612,36,12,2599,Onwards,Intercity travels,Bharat Benz A/C Sleeper (2+1),4.6,435,Yes,Hyderabad,Bangalore
+12351563,19:30,06:10,10h 40m,640,33,13,3000,Onwards,V Kaveri Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.4,833,Yes,Hyderabad,Bangalore
+35410190,18:45,06:20,11h 35m,695,36,12,1190,Onwards,FlixBus,A/C Sleeper (2+1),4.3,1128,Yes,Hyderabad,Bangalore
+31477950,18:25,03:15,8h 50m,530,35,11,3000,Onwards,Delta Transports Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.5,241,Yes,Hyderabad,Bangalore
+32783206,23:00,08:05,9h 5m,545,36,12,2399,Onwards,Intercity travels,Bharat Benz A/C Sleeper (2+1),4.5,204,Yes,Hyderabad,Bangalore
+29620168,17:00,02:35,9h 35m,575,39,18,6999,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.4,345,Yes,Hyderabad,Bangalore
+34144173,21:20,07:00,9h 40m,580,40,14,3999,Onwards,Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.2,967,Yes,Hyderabad,Bangalore
+35410186,19:05,06:30,11h 25m,685,36,12,1190,Onwards,FlixBus,A/C Sleeper (2+1),4.2,903,Yes,Hyderabad,Bangalore
+26325583,20:45,07:50,11h 5m,665,30,10,2509,Onwards,Ramana Tours And Travels,A/C Sleeper (2+1),4.2,853,Yes,Hyderabad,Bangalore
+35410192,23:20,10:10,10h 50m,650,36,12,1228,Onwards,FlixBus,A/C Sleeper (2+1),4.2,852,Yes,Hyderabad,Bangalore
+32532529,20:45,06:01,9h 16m,556,24,24,4000,Onwards,KSM Roadways,Bharat Benz A/C Sleeper (1+1),4.4,244,Yes,Hyderabad,Bangalore
+42828154,19:30,04:30,9h,540,39,13,7777,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo 9600 SLX Multi-Axle AC Sleeper (2+1),4.5,136,Yes,Hyderabad,Bangalore
+42744985,16:00,01:45,9h 45m,585,39,18,7000,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.5,112,Yes,Hyderabad,Bangalore
+42058547,13:10,23:15,10h 5m,605,35,11,3950,Onwards,Royal Rich India R No. 208,Bharat Benz A/C Sleeper (2+1),4.3,311,Yes,Hyderabad,Bangalore
+35405944,11:50,22:10,10h 20m,620,35,11,4100,Onwards,Royal Rich India,Bharat Benz A/C Sleeper (2+1),4.2,513,Yes,Hyderabad,Bangalore
+17069417,23:50,09:50,10h,600,33,11,2300,Onwards,Dream Line Travels Pvt Ltd,A/C Volvo B11R Multi-Axle Sleeper (2+1),4.1,950,Yes,Hyderabad,Bangalore
+35886496,21:05,08:15,11h 10m,670,36,12,1713,Onwards,FlixBus,A/C Sleeper (2+1),4.1,767,Yes,Hyderabad,Bangalore
+27798740,21:30,06:50,9h 20m,560,39,13,2750,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.0,742,Yes,Hyderabad,Bangalore
+42065592,23:35,09:10,9h 35m,575,40,14,2400,Onwards,Rajdhani Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.0,455,Yes,Hyderabad,Bangalore
+33060945,22:30,07:45,9h 15m,555,39,13,5999,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle I-Shift A/C Sleeper (2+1),3.8,510,Yes,Hyderabad,Bangalore
+41212141,16:15,02:10,9h 55m,595,23,8,1400,Onwards,YAS Tours & Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),3.9,227,Yes,Hyderabad,Bangalore
+36377313,22:30,07:30,9h,540,27,8,4999,Onwards,IRA TRANSPORTS,VE A/C Sleeper (2+1),4.1,88,Yes,Hyderabad,Bangalore
+10515587,15:45,02:15,10h 30m,630,35,11,3860,Onwards,Swamy Ayyappa Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),3.9,133,Yes,Hyderabad,Bangalore
+17540400,14:45,01:05,10h 20m,620,31,9,3650,Onwards,Swamy Ayyappa Travels,A/C Sleeper (2+1),4.3,67,Yes,Hyderabad,Bangalore
+34929430,23:30,09:25,9h 55m,595,25,9,3880,Onwards,Naveen Travels (Durg),A/C Sleeper (2+1),3.8,117,Yes,Hyderabad,Bangalore
+41212139,14:01,00:25,10h 24m,624,29,9,3400,Onwards,YAS Tours & Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),3.7,119,Yes,Hyderabad,Bangalore
+41210847,13:00,23:00,10h,600,29,10,2800,Onwards,YAS Tours & Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),3.6,100,Yes,Hyderabad,Bangalore
+38011299,23:20,09:15,9h 55m,595,25,9,5000,Onwards,V Kaveri Travels,VE A/C Sleeper (2+1),4.1,172,No,Hyderabad,Bangalore
+23283704,13:10,23:15,10h 5m,605,30,5,1900,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),3.5,127,Yes,Hyderabad,Bangalore
+10681668,18:10,04:00,9h 50m,590,27,5,2700,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),3.8,68,No,Hyderabad,Bangalore
+37046708,23:05,09:00,9h 55m,595,35,11,6999,Onwards,Shyamoli Paribahan Pvt Ltd,A/C Sleeper (2+1),3.9,233,No,Hyderabad,Bangalore
+46013087,18:30,03:30,9h,540,39,18,6999,Onwards,Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.3,35,Yes,Hyderabad,Bangalore
+13803629,18:45,04:25,9h 40m,580,31,9,3860,Onwards,Swamy Ayyappa Travels,A/C Sleeper (2+1),3.9,203,No,Hyderabad,Bangalore
+27678455,16:15,01:55,9h 40m,580,24,4,2100,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),3.7,56,No,Hyderabad,Bangalore
+37916064,18:10,03:50,9h 40m,580,27,5,2300,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),3.7,55,Yes,Hyderabad,Bangalore
+44047555,23:05,09:00,9h 55m,595,35,22,4000,Onwards,Express Line,VE A/C Sleeper (2+1),3.8,49,Yes,Hyderabad,Bangalore
+34263255,15:05,00:50,9h 45m,585,29,9,3000,Onwards,Kallada Travels (Suresh Kallada),Scania AC Multi Axle Sleeper (2+1),3.8,45,Yes,Hyderabad,Bangalore
+42472441,11:25,22:35,11h 10m,670,29,9,2000,Onwards,Kallada Travels (Suresh Kallada),Bharat Benz A/C Sleeper (2+1),4.1,83,No,Hyderabad,Bangalore
+43018238,19:10,04:10,9h,540,46,0,2000,Onwards,Kallada Travels (Suresh Kallada),Scania Multi-Axle AC Semi Sleeper (2+2),3.1,81,No,Hyderabad,Bangalore
+29387260,19:10,04:30,9h 20m,560,35,11,1200,Onwards,VRL Travels,A/C Sleeper (2+1),3.4,46,Yes,Hyderabad,Bangalore
+31274566,17:10,02:40,9h 30m,570,24,4,2400,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),4.1,23,Yes,Hyderabad,Bangalore
+11391154,16:05,01:50,9h 45m,585,24,4,2100,Onwards,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),3.1,56,No,Hyderabad,Bangalore
+10937479,14:05,23:20,9h 15m,555,36,0,2600,Onwards,Kallada Travels (Suresh Kallada),Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2),2.9,119,Yes,Hyderabad,Bangalore
+30703715,21:45,08:30,10h 45m,645,26,6,3999,Onwards,IRA TRANSPORTS,A/C Sleeper (2+1),3.7,103,No,Hyderabad,Bangalore
+45662774,14:05,23:30,9h 25m,565,29,9,3800,Onwards,Delta Transports Pvt Ltd,Volvo 9600 SLX Multi-Axle AC Sleeper (2+1),2.6,10,Yes,Hyderabad,Bangalore
+41210851,13:51,23:35,9h 44m,584,39,0,900,Unknown,YAS Tours & Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),3.5,81,No,Hyderabad,Bangalore
+46663532,23:15,08:20,9h 5m,545,35,11,3999,Onwards,Express Line,VE A/C Sleeper (2+1),4.0,0,Yes,Hyderabad,Bangalore
+23661588,19:15,07:30,12h 15m,735,22,6,1550,Onwards,Tranzindia Travels,Non A/C Seater / Sleeper (2+1),1.6,335,No,Hyderabad,Bangalore
+45449932,02:45,13:00,10h 15m,615,44,10,6400,Onwards,The Abha Travels,A/C Seater/Sleeper (2+1),3.4,0,No,Hyderabad,Bangalore
+46664684,23:15,08:30,9h 15m,555,36,12,4500,Onwards,Ram Dalal Holidays Pvt Ltd,Bharat Benz A/C Sleeper (2+1),2.9,0,No,Hyderabad,Bangalore
+46523965,02:45,13:00,10h 15m,615,66,0,5000,Onwards,Om Sai Baba Tour And Travels,A/C Seater / Sleeper (2+2),0.0,0,No,Hyderabad,Bangalore
+46438242,02:45,13:00,10h 15m,615,32,8,5000,Onwards,Om Sai Baba Tour And Travels,A/C Seater / Sleeper (2+1),0.0,0,No,Hyderabad,Bangalore
+26923355,22:00,07:15,9h 15m,555,36,12,1000,Onwards,VRL Travels,NON A/C Sleeper (2+1),3.9,83,Yes,Hyderabad,Bangalore
+29901441,23:20,07:45,8h 25m,505,39,13,1500,Onwards,VRL Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),3.6,138,Yes,Hyderabad,Bangalore
+16844391,19:00,07:30,12h 30m,750,33,13,3500,Onwards,V Kaveri Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.6,834,Yes,Hyderabad,Chennai
+25642109,20:00,07:55,11h 55m,715,27,9,3369,Onwards,Ramana Tours And Travels,A/C Sleeper (2+1),4.3,599,Yes,Hyderabad,Chennai
+34375210,22:00,09:00,11h,660,32,10,3679,Onwards,Bharathi Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),4.2,459,Yes,Hyderabad,Chennai
+22579056,17:00,05:30,12h 30m,750,27,10,3500,Onwards,V Kaveri Travels,A/C Sleeper (2+1),3.8,387,Yes,Hyderabad,Chennai
+34375209,22:50,09:00,10h 10m,610,34,10,3680,Onwards,Bharathi Travels,Scania AC Multi Axle Sleeper (2+1),3.7,353,Yes,Hyderabad,Chennai
+20775383,21:30,10:20,12h 50m,770,29,11,4000,Onwards,V Kaveri Travels,A/C Sleeper (2+1),3.6,427,Yes,Hyderabad,Chennai
+35883971,22:00,10:00,12h,720,32,8,5699,Unknown,MRM Travels,A/C Seater / Sleeper (2+1),3.0,16,No,Hyderabad,Chennai
